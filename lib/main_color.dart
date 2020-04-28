@@ -38,8 +38,8 @@ class MainColor {
       int hex = _abgrToArgb(pixel32);
       Color color = Color(hex);
       if (!scoreByColor.containsKey(color)) {
-        scoreByColor[color] = _computeColorScore(
-            color, _defaultSaturationCoef, _defaultValueCoef);
+        scoreByColor[color] =
+            _computeColorScore(color, staturationCoef, valueCoef);
       }
       if (colorWithHighestScore == null ||
           scoreByColor[colorWithHighestScore] < scoreByColor[color]) {
