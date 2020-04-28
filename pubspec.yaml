@@ -1,6 +1,6 @@
 name: main_color
 description: This package help you retrieve the main color from a range of color
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/hbock-42/main_color
 
 environment:
