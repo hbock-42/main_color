@@ -1,3 +1,8 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 28 april 2020.
 
-* TODO: Describe initial release.
+- only one method:
+  static Color fromImageBytes(
+  List<int> bytes, {
+  double staturationCoef = \_defaultSaturationCoef,
+  double valueCoef = \_defaultValueCoef,
+  })
