@@ -4,6 +4,8 @@ A package to help you get the main color from a pickture
 
 # ⚙️ Installation
 
+https://pub.dev/packages/main_color/versions/0.0.4
+
 <h3>1. Depend on it</h3>
 <p>Add this to your package's pubspec.yaml file:</p>
 <pre><code class="language-yaml">
