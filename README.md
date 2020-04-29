@@ -1,6 +1,6 @@
 # main_color
 
-A package to help you get the main color from a list
+A package to help you get the main color from a pickture
 
 # ⚙️ Installation
 
