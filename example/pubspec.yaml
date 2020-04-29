@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  main_color: ^0.0.3
+  main_color: ^0.0.4
 
 dev_dependencies:
   flutter_test:
