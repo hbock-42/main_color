@@ -32,3 +32,11 @@ import 'package:main_color/main_color.dart';
 # Showcases
 
 ![Default values](https://github.com/hbock-42/main_color/blob/master/media/1.jpg)
+
+![Other values](https://github.com/hbock-42/main_color/blob/master/media/2.jpg)
+
+![Other values](https://github.com/hbock-42/main_color/blob/master/media/3.jpg)
+
+![Other values](https://github.com/hbock-42/main_color/blob/master/media/4.jpg)
+
+![Other values](https://github.com/hbock-42/main_color/blob/master/media/5.jpg)
