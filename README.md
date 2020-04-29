@@ -31,5 +31,4 @@ import 'package:main_color/main_color.dart';
 
 # Showcases
 
-With default coefficients value:
 ![Default values](https://github.com/hbock-42/main_color/blob/master/media/1.jpg)
