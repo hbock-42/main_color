@@ -10,7 +10,7 @@ import 'package:flutter/painting.dart';
 /// You can fine-tune it by modifying the [staturationCoef]
 /// and/or the [valueCoef] when calling the methods.
 class MainColor {
-  static const double _defaultSaturationCoef = 1;
+  static const double _defaultSaturationCoef = 1.3;
   static const double _defaultValueCoef = 1;
 
   static double get defaultSaturationCoef => _defaultSaturationCoef;
