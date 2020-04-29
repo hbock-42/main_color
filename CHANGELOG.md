@@ -6,3 +6,7 @@
 
 - add example
 - coef were not taken in account
+
+## [0.0.4] - 28 april 2020.
+
+- example runs faster
